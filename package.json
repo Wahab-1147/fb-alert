@@ -9,5 +9,8 @@
     "mqtt": "^4.3.7",
     "nodemailer": "^6.9.4",
     "bloom-filters": "^2.0.0"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
